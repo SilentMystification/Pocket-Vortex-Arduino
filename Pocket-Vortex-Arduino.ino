@@ -22,10 +22,10 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #include <Keyboard.h>
 
 /* Encoder */
-#define ENC_LEFT_PIN_A 3
-#define ENC_LEFT_PIN_B 2
-#define ENC_RIGHT_PIN_A 1
-#define ENC_RIGHT_PIN_B 0
+#define ENC_LEFT_PIN_A 1
+#define ENC_LEFT_PIN_B 0
+#define ENC_RIGHT_PIN_A 3
+#define ENC_RIGHT_PIN_B 2
 #define PULSECOUNT 24
 #define MOUSE_MULTIPLIER 3
 
